@@ -1,0 +1,5 @@
+*.pth
+*.pt
+*.weights
+yolov5s.pt/
+myenv/
